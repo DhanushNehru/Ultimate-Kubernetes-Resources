@@ -1,13 +1,13 @@
 # Ultimate-Kubernetes-Resources
 A collection of Kubernetes Resources
 
-## Examples
-- Deployments - Learn how to create and manage deployments for scalable and resilient applications.
-- Pods - Understand the basics of pod creation and management.
-- ReplicaSets - Explore how to maintain a stable set of replica pods.
-- Service - Discover how to expose your applications using Kubernetes services.
-- Voting App - A complete voting application setup using Pods.
-- Voting App with Deployment - A complete voting application setup using Deployments for enhanced scalability and reliability.
+## [Examples](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples)
+- [Deployments](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/deployments) - A simple deployment file.
+- [Pods](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/pods) - A simple pod setup.
+- [ReplicaSets](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/replicasets) -  A simple replicaset to manage and automate updates for your application pods.
+- [Service](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/service) - A simple service to expose your applications using Kubernetes services.
+- [Voting App](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/voting-app) - A complete voting application setup using Pods.
+- [Voting App with Deployment](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/voting-app-with-deployment) - A complete voting application setup using Deployments for enhanced scalability and reliability.
 
 ## Gitpod
 
