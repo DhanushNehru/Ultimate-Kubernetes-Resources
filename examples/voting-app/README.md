@@ -1,11 +1,12 @@
-# voting-app
-This repository contains Kubernetes configuration files to deploy a complete Voting App setup using the following components:
+# voting-app ( Deploying Microservices Application on Kubernetes )
+This repository contains Kubernetes configuration files to deploy a complete Voting App setup using individual Pods. 
+The application consists of the following components:
 
-- PostgreSQL (Database)
-- Redis (Caching)
-- Voting App (Frontend)
-- Worker App (Backend processing)
-- Result App (Result display)
+- Postgres Pod: Stores voting data.
+- Redis Pod: Acts as a queue for votes.
+- Voting App Pod: Frontend for users to cast their votes.
+- Worker App Pod: Processes votes from Redis and stores them in Postgres.
+- Result App Pod: Displays voting results.
 
 ### Prerequisites
 Make sure you have the following installed:
