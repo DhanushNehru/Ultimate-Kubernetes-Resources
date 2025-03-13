@@ -32,6 +32,5 @@ kubectl create -f result-app-service.yaml
 
 minikube service voting-service --url
 minikube service result-service --url
-
 ```
 
