@@ -15,7 +15,7 @@ Make sure you have the following installed:
 - Docker
 
 ### Commands
-```
+```bash
 kubectl create -f postgres-pod.yaml
 kubectl create -f postgres-service.yaml
 
@@ -30,7 +30,11 @@ kubectl create -f worker-app-pod.yaml
 kubectl create -f result-app-pod.yaml
 kubectl create -f result-app-service.yaml
 
+kubect get all # Check that 5 pods and 4 services (db, redis, result, voting) are running
+
+# Get the external URL to access the Voting App through Minikube
 minikube service voting-service --url
+# Get the external URL to access the Result App through Minikube
 minikube service result-service --url
 ```
 
