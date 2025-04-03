@@ -10,6 +10,7 @@ A collection of Kubernetes Resources
 - [Voting App](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/voting-app) - A complete voting application setup using Pods.
 - [Voting App with Deployment](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/voting-app-with-deployment) - A complete voting application setup using Deployments for enhanced scalability and reliability.
 - [ConfigMaps](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/configmaps) - A Kubernetes ConfigMap to manage environment variables and configuration data separately from application code.
+- [Secrets](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/secrets) - A Kubernetes Secret to securely store sensitive data like database credentials and API keys.
 
 ## Gitpod
 In the cloud-free development environment where you can directly start coding.
