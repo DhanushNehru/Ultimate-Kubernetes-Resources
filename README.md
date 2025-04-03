@@ -9,6 +9,7 @@ A collection of Kubernetes Resources
 - [Service](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/service) - A simple service to expose your applications using Kubernetes services.
 - [Voting App](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/voting-app) - A complete voting application setup using Pods.
 - [Voting App with Deployment](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/voting-app-with-deployment) - A complete voting application setup using Deployments for enhanced scalability and reliability.
+- [ConfigMaps](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/configmaps) - A Kubernetes ConfigMap to manage environment variables and configuration data separately from application code.
 
 ## Gitpod
 In the cloud-free development environment where you can directly start coding.
