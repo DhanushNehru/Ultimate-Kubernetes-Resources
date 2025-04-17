@@ -14,12 +14,9 @@ A collection of Kubernetes Resources
 - [Security Context](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/security-context) - Examples showcasing how to set user permissions and Linux capabilities for pods using the `securityContext` field.
 ### [Resource Management Examples](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management)
 
-- [Limit Range - CPU](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management/limit-range-cpu)  
-  Defines default CPU requests and limits to ensure fair CPU usage across containers.
-- [Limit Range - Memory](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management/limit-range-memory)  
-  Defines default memory requests and limits to control memory consumption at the container level.
-- [Resource Quota](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management/resource-quota)  
-  Sets a hard limit on the total amount of CPU and memory a namespace can use, ensuring balanced resource usage in the cluster.
+- [Limit Range - CPU](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management/limit-range-cpu) - Defines default CPU requests and limits to ensure fair CPU usage across containers.
+- [Limit Range - Memory](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management/limit-range-memory) - Defines default memory requests and limits to control memory consumption at the container level.
+- [Resource Quota](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management/resource-quota) - Sets a hard limit on the total amount of CPU and memory a namespace can use, ensuring balanced resource usage in the cluster.
 
 ## Gitpod
 In the cloud-free development environment where you can directly start coding.
