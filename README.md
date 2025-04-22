@@ -12,6 +12,7 @@ A collection of Kubernetes Resources
 - [ConfigMaps](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/configmaps) - A Kubernetes ConfigMap to manage environment variables and configuration data separately from application code.
 - [Secrets](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/secrets) - A Kubernetes Secret to securely store sensitive data like database credentials and API keys.
 - [Security Context](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/security-context) - Examples showcasing how to set user permissions and Linux capabilities for pods using the `securityContext` field.
+- [Taints and Tolerations](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/taints-and-tolerations) - An example demonstrating how to use taints and tolerations to control pod scheduling and node isolation in Kubernetes.
 ### [Resource Management Examples](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management)
 
 - [Limit Range - CPU](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management/limit-range-cpu) - Defines default CPU requests and limits to ensure fair CPU usage across containers.
