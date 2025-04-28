@@ -17,6 +17,7 @@ A collection of Kubernetes Resources
     - [Limit Range - Memory](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management/limit-range-memory) - Defines default memory requests and limits to control memory consumption at the container level.
     - [Resource Quota](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management/resource-quota) - Sets a hard limit on the total amount of CPU and memory a namespace can use, ensuring balanced resource usage in the cluster.
 - [Taints and Tolerations](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/taints-and-tolerations) - An example demonstrating how to use taints and tolerations to control pod scheduling and node isolation in Kubernetes.
+- [Node Selectors](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/node-selectors) - An example demonstrating how to use node selectors to control pod placement based on node labels in Kubernetes.
 
 ## Gitpod
 In the cloud-free development environment where you can directly start coding.
