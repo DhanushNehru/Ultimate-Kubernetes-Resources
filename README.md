@@ -18,6 +18,7 @@ A collection of Kubernetes Resources
     - [Resource Quota](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/resource-management/resource-quota) - Sets a hard limit on the total amount of CPU and memory a namespace can use, ensuring balanced resource usage in the cluster.
 - [Taints and Tolerations](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/taints-and-tolerations) - An example demonstrating how to use taints and tolerations to control pod scheduling and node isolation in Kubernetes.
 - [Node Selectors](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/node-selectors) - An example demonstrating how to use node selectors to control pod placement based on node labels in Kubernetes.
+- [Node Affinity](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/node-affinity) - An example demonstrating how to use node affinity rules to influence pod scheduling decisions based on flexible node label matching in Kubernetes.
 
 ## Gitpod
 In the cloud-free development environment where you can directly start coding.
