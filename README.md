@@ -20,7 +20,3 @@ A collection of Kubernetes Resources
 - [Node Selectors](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/node-selectors) - An example demonstrating how to use node selectors to control pod placement based on node labels in Kubernetes.
 - [Node Affinity](https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/tree/main/examples/node-affinity) - An example demonstrating how to use node affinity rules to influence pod scheduling decisions based on flexible node label matching in Kubernetes.
 
-## Gitpod
-In the cloud-free development environment where you can directly start coding.
-
-You can use Gitpod in the cloud  [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DhanushNehru/Ultimate-Kubernetes-Resources/)
