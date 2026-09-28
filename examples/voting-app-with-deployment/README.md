@@ -31,7 +31,7 @@ kubectl create -f worker-app-deploy.yaml
 kubectl create -f result-app-deploy.yaml 
 kubectl create -f result-app-service.yaml
 
-kubect get all # Check that 5 pods and 4 services (db, redis, result, voting) are running
+kubectl get all # Check that 5 pods and 4 services (db, redis, result, voting) are running
 
 # Get the external URL to access the Voting App through Minikube
 minikube service voting-service --url
